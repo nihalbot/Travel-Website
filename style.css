@@ -107,6 +107,10 @@ body {
   height: 3rem;
   background-color: #ff5400;
   color: #fff;
+  border: 2px solid transparent;
+}
+.btn-search:hover{
+   border: 2px solid #ff5400;
 }
 .section-2 {
   padding: 0vw 4.5vw 0 4.5vw;
